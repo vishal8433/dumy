@@ -37,6 +37,9 @@
                 <li class="nav-item item3 active"><a href="login_signup_page.php">
                     <button class="signbtn btn-outline-success my-2 my-sm-0" type="submit"><b>sign in/up</b></button></a>
                 </li>
+                <li class="nav-item item3 active"><a href="admin/admin_login.php">
+                    <button class="signbtn btn-outline-success my-2 my-sm-0" type="submit"><b>Admin</b></button></a>
+                </li>
             </ul>
         </div>
     </nav>

@@ -66,6 +66,7 @@ nav {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    box-shadow: 0 0 16px 7px rgba(0,150,255,0.91) ;
 }
 
 .contactbtn:hover {

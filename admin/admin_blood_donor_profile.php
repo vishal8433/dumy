@@ -95,19 +95,6 @@ if(isset($_GET['id'])){
         </div>
     </div>
     </div>
-    <footer>
-        <div class="fluid-container f1">
-            <div class="container-fluid ">
-                <div class="row ourservicesrow">
-                    <div class="col-sm-2 ourservices">
-                    </div>
-                    <div class="col-sm-10 aboutmeparagraph">
-                    </div>
-                </div>
-                <pre class="copyrightline"><i class="fa fa-copyright" aria-hidden="true"></i>copyright to sanjeevni.com,all rights reserved.</pre>
-            </div>
-        </div>
-    </footer>
 </body>
 
 </html>
