@@ -1,0 +1,153 @@
+nav {
+    background-color: #00b6ff;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0 0 16px 7px #009bd9 ;
+
+}
+
+.item1 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item2 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item3 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.dropdown {
+    background-color: aliceblue;
+
+}
+
+.brand-name {
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.logoimg {
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+
+.contactbtn {
+    margin-left: 20px;
+    height: 40px;
+    width: 150px;
+    font: none;
+    padding: 0;
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    border-radius: 5px;
+    background-color: #00b6ff;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    box-shadow: 0 0 16px 7px #009bd9 ;
+}
+
+.contactbtn:hover {
+    background-color: white;
+    color: #00b6ff;
+}
+
+
+.f1 {
+    background-color: #00b6ff;
+    box-shadow: 0 0 16px 7px #009bd9 ;
+}
+
+.copyrightline {
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    color: black;
+    margin-bottom: 0px;
+}
+
+
+body{
+    background-color: #00b6ff;
+    overflow-x: hidden;
+
+}
+.introimg {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.introline {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    margin-bottom: 80px;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.col1{
+    background-color: #00b6ff;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 90px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 16px 7px #009bd9 ;
+}
+
+.col2{
+    background-color: #00b6ff;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 90px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 16px 7px #009bd9 ;
+}
+
+.title{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: serif;
+    text-transform: capitalize;
+    margin: 0;
+    
+}
+
+.info{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: serif;
+    text-transform: capitalize;
+    margin: 0;
+}
+/*footer*/

@@ -1,0 +1,70 @@
+.c3{
+    background-color: #00004d;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+   box-shadow: 0 0 16px 7px rgba(0,150,255,0.91) ;
+    margin-bottom: 20px;
+        
+}
+
+
+.col4{
+    background-color: skyblue;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+    height: 30px;
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.infor{
+    text-align: center;
+    text-transform: capitalize;
+    margin: 0px;
+    font-size: 25px;
+    font-family: serif;
+    color: darkred;
+}
+
+.delete{
+    height: 30px;
+    width: 200px;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 5px;    
+    margin-left: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.col5{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+    height: 30px;
+    padding: 0px;
+}
+
+.vj{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.adddoctor{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-transform: capitalize;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}

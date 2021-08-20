@@ -1,0 +1,102 @@
+body{
+    overflow-x: hidden;
+    background-color: dodgerblue;
+    margin: 0px;
+    padding: 0px;
+}
+.c1{
+    background-color: darkblue;
+    overflow-x: hidden;
+}
+
+.logoimg {
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.sanjeevni{
+    color: snow;
+    text-align: center;
+    font-family: serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.c2{
+    background-color: darkblue;
+    margin-left: 5%;
+    margin-right: 5%;
+    overflow-x: hidden;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.introimg {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.admin_panel{
+    color: whitesmoke;
+    text-align: center;
+    font-family: serif;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+}
+
+.admin-form {
+    margin-left: 0;
+}
+.form-control {
+    margin-left: auto;
+    margin-right: auto;
+    width: 280px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    color: black;
+    font-size: 18px;
+    margin-bottom: 30px;
+    background-color: transparent;
+}
+input {
+    height: 45px;
+    
+}
+.submit {
+    background-color: darkred;
+    border-color: transparent;
+    color: white;
+    font-size: 23px;
+    font-family: serif;
+    letter-spacing: 2px;
+    height: 50px;
+    width: 20%;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.submit:hover {
+    background-color: darkgreen;
+    border-color: transparent;
+    color: white;
+    font-size: 23px;
+    font-family: serif;
+    letter-spacing: 2px;
+    height: 50px;
+    width: 20%;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,29 @@
+<?php
+include("../includes/connection.php");
+if(isset($_GET['id'])){
+    $u_id=$_GET['id'];
+    $vj="SELECT * FROM `hospital` WHERE `id`='$u_id'";
+    $run=mysqli_query($con,$vj);
+    $row=mysqli_fetch_array($run);
+
+    $Gmail=$row['email'];
+    $h_name=$row['hospital_name'];
+    $type_h=$row['type_of_hospital'];
+    $h_address=$row['hospital_address'];
+    $c=$row['country'];
+    $s=$row['state'];
+    $d=$row['district'];
+    $h_phone=$row['h_phone_no'];
+    $e=$row['emergency'];
+    $bed=$row['bed'];
+    $icu=$row['icu'];
+    $v=$row['ventilator'];
+    $o=$row['oxygen'];
+    $ambulance_a=$row['ambulance_availability'];
+    $a_p=$row['amubulance_phone_no'];
+    $m_d=$row['male_doctor'];
+    $f_d=$row['female_doctor'];
+    $update=$row['reg_date'];
+    $status=$row['status'];
+}
+?>

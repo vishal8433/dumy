@@ -1,0 +1,49 @@
+body{
+    background-color: maroon;
+}
+
+.sitename{
+    margin-top: 10px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.introimg {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+p{
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    word-spacing: 5px;
+    text-transform: uppercase;
+    font-family: serif;
+    font-size: 18px;
+}
+
+.c1{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color: fuchsia;
+}

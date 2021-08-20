@@ -1,0 +1,190 @@
+nav {
+    background-color: darkblue;
+    margin: 0;
+    padding: 0;
+
+}
+
+.item1 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item2 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.item3 {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
+
+.dropdown {
+    background-color: aliceblue;
+
+}
+
+.brand-name {
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.logoimg {
+    height: 40px;
+    width: 40px;
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.f1 {
+    background-color: darkblue;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.copyrightline {
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    color: whitesmoke;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navlinks{
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: serif;
+    font-size: 25px;
+}
+.navlinks:hover{
+    color: palegreen;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: serif;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+body{
+    background-color: dodgerblue;
+    overflow-x: hidden;
+}
+
+.data{
+    text-align: center;
+    color: black;
+    font-family: serif;
+    text-transform: uppercase;
+    font-size-adjust: auto;
+    text-decoration: underline;
+}
+
+.c1{
+    background-color: darkblue;
+    overflow-x: hidden;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.detail{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: serif;
+    font-size-adjust: auto;
+  
+}
+.gmail{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: serif;
+    font-size-adjust: auto;
+   overflow-x: auto;
+}
+.appointment{
+    margin-bottom: 10px;
+    color: white;
+    background-color: darkgreen;
+    font-size-adjust: auto;
+    font-family: serif;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: none;
+}
+.appointment:hover{
+    margin-bottom: 10px;
+    color: white;
+    background-color: dodgerblue;
+    font-size-adjust: auto;
+    font-family: serif;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: none;
+}
+.doctorl{
+    margin-bottom: 10px;
+    color: white;
+    background-color: red;
+    font-size-adjust: auto;
+    font-family: serif;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: none;
+}
+.doctorl:hover{
+    margin-bottom: 10px;
+    color: white;
+    background-color: maroon;
+    font-size-adjust: auto;
+    font-family: serif;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: none;
+}
+.deletea{
+     margin-bottom: 10px;
+    color: white;
+    background-color: orangered;
+    font-size-adjust: auto;
+    font-family: serif;
+    text-align: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: none;
+}
+.deletea:hover{
+     margin-bottom: 10px;
+    color: white;
+    background-color: firebrick;
+    font-size-adjust: auto;
+    font-family: serif;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: none;
+}
